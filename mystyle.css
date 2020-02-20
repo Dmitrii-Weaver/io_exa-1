@@ -1,0 +1,55 @@
+#menu {
+    background-color: aqua;
+    float: left;
+    width: 150px;
+    height: 100%;
+    font-size : 20px;
+    
+	
+}
+
+#menu ul li {
+    list-style:none ; 
+}
+#menu ul li a {
+    text-decoration: none 
+}
+
+#menu ul li a:hover {
+ color : greenyellow ;
+}
+
+
+#header {
+    background-color : red;
+
+}
+#footer {
+    background-color: greenyellow;
+}
+
+html,
+body {
+	  height: 100%;
+	  width: 100%;
+    }
+#content {
+    margin-left: 160px; 
+}   
+
+
+
+
+.myforms{
+	  border-color: black;
+	  border-style: solid;
+	  border-radius: 20px;
+	  padding: 20px;
+		width: 200px;
+	}
+	#sourceForm{
+	  background-color: yellow;
+	}
+	#targetForm{
+	  background-color: lightgreen;
+	} 
